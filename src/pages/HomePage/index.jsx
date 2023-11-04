@@ -7,7 +7,7 @@ import './style.css';
 
 export const HomePage = () => {
   return (
-    <div className="container">
+    <div className="container">      
       <Ukol1 />
       <Ukol2 />
       <Ukol3 />
