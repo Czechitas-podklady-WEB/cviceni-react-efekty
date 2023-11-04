@@ -14,7 +14,6 @@ export const Ukol5 = () => {
   const [postava, setPostava] = useState(null);
   return (
     <>
-      <h1>Úkol 5</h1>
       <p>Načítám…</p>
     </>
   );

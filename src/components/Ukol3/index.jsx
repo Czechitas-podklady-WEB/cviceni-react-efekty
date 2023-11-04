@@ -6,7 +6,6 @@ Zadání: Vytvořte v této komponentě efekt, který pomocí funkce setTimeout 
 export const Ukol3 = () => {
   return (
     <>
-      <h1>Úkol 3</h1>
       <p>Jsem tady</p>
     </>
   );
