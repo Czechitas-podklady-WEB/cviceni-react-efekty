@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 /*
-Zadání: Upravte efekt v této komponentě tak, aby se při zobrazení komponenty v konzoli objevil
+Zadání: Upravte efekt v této komponentě tak, aby se při **každém** zobrazení komponenty v konzoli objevil
   text „Jsem tady“.
 */
 
